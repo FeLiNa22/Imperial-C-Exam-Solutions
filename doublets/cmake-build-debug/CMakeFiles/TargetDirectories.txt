@@ -1,0 +1,6 @@
+/home/raul/Desktop/clexisonline_rp519/doublets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/raul/Desktop/clexisonline_rp519/doublets/cmake-build-debug/CMakeFiles/doublets.dir
+/home/raul/Desktop/clexisonline_rp519/doublets/cmake-build-debug/CMakeFiles/testB.dir
+/home/raul/Desktop/clexisonline_rp519/doublets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/raul/Desktop/clexisonline_rp519/doublets/cmake-build-debug/CMakeFiles/dictionary.dir
+/home/raul/Desktop/clexisonline_rp519/doublets/cmake-build-debug/CMakeFiles/testA.dir

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raul/Desktop/clexisonline_rp519/doublets/doublets.c
+doublets.h
+/home/raul/Desktop/clexisonline_rp519/doublets/doublets.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/home/raul/Desktop/clexisonline_rp519/doublets/doublets.h
+stdbool.h
+-
+ctype.h
+-
+trie.h
+/home/raul/Desktop/clexisonline_rp519/doublets/trie.h
+
+/home/raul/Desktop/clexisonline_rp519/doublets/trie.c
+trie.h
+/home/raul/Desktop/clexisonline_rp519/doublets/trie.h
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/raul/Desktop/clexisonline_rp519/doublets/trie.h
+stdbool.h
+-
+
