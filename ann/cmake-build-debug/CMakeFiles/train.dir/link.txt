@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/train.dir/train.c.o CMakeFiles/train.dir/layer.c.o CMakeFiles/train.dir/ann.c.o CMakeFiles/train.dir/rdata.c.o  -o train 

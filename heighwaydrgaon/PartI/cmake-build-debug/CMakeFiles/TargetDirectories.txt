@@ -1,0 +1,4 @@
+/home/raul/Desktop/C exams/heighwaydrgaon/PartI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/raul/Desktop/C exams/heighwaydrgaon/PartI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/raul/Desktop/C exams/heighwaydrgaon/PartI/cmake-build-debug/CMakeFiles/Test2.dir
+/home/raul/Desktop/C exams/heighwaydrgaon/PartI/cmake-build-debug/CMakeFiles/Test.dir

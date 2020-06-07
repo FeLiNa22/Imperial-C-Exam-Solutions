@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raul/Desktop/C exams/huffman/exam.c
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+exam.h
+/home/raul/Desktop/C exams/huffman/exam.h
+
+/home/raul/Desktop/C exams/huffman/exam.h
+stdlib.h
+-
+

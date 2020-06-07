@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raul/Desktop/C exams/heighwaydrgaon/PartI/dragon.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+stdbool.h
+-
+image.h
+/home/raul/Desktop/C exams/heighwaydrgaon/PartI/image.h
+dragon.h
+/home/raul/Desktop/C exams/heighwaydrgaon/PartI/dragon.h
+
+/home/raul/Desktop/C exams/heighwaydrgaon/PartI/dragon.h
+stdint.h
+-
+
+/home/raul/Desktop/C exams/heighwaydrgaon/PartI/image.h
+stdint.h
+-
+

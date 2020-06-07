@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raul/Desktop/C exams/region_skeleton/skeleton/image.h
+stdint.h
+-
+
+/home/raul/Desktop/C exams/region_skeleton/skeleton/list.h
+region.h
+/home/raul/Desktop/C exams/region_skeleton/skeleton/region.h
+stdio.h
+-
+
+/home/raul/Desktop/C exams/region_skeleton/skeleton/region.c
+region.h
+/home/raul/Desktop/C exams/region_skeleton/skeleton/region.h
+image.h
+/home/raul/Desktop/C exams/region_skeleton/skeleton/image.h
+typedefs.h
+/home/raul/Desktop/C exams/region_skeleton/skeleton/typedefs.h
+list.h
+/home/raul/Desktop/C exams/region_skeleton/skeleton/list.h
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+test_regions.h
+/home/raul/Desktop/C exams/region_skeleton/skeleton/test_regions.h
+
+/home/raul/Desktop/C exams/region_skeleton/skeleton/region.h
+image.h
+/home/raul/Desktop/C exams/region_skeleton/skeleton/image.h
+typedefs.h
+/home/raul/Desktop/C exams/region_skeleton/skeleton/typedefs.h
+stdint.h
+-
+stdio.h
+-
+
+/home/raul/Desktop/C exams/region_skeleton/skeleton/test_regions.h
+
+/home/raul/Desktop/C exams/region_skeleton/skeleton/typedefs.h
+

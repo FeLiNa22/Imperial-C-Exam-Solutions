@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Test.dir/image.c.o CMakeFiles/Test.dir/list.c.o CMakeFiles/Test.dir/region.c.o  -o Test 

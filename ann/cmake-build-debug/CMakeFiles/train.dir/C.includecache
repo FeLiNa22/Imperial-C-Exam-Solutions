@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raul/Desktop/C exams/ann/layer.c
+layer.h
+/home/raul/Desktop/C exams/ann/layer.h
+
+/home/raul/Desktop/C exams/ann/layer.h
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+stdbool.h
+-
+math.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Stenography.dir/eliza.c.o CMakeFiles/Stenography.dir/eliza_state.c.o CMakeFiles/Stenography.dir/string_utils.c.o CMakeFiles/Stenography.dir/list.c.o CMakeFiles/Stenography.dir/map.c.o CMakeFiles/Stenography.dir/parser.c.o CMakeFiles/Stenography.dir/rule.c.o  -o Stenography 

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raul/Desktop/C exams/eliza_skeleton/map.c
+string_utils.h
+/home/raul/Desktop/C exams/eliza_skeleton/string_utils.h
+map.h
+/home/raul/Desktop/C exams/eliza_skeleton/map.h
+assert.h
+-
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
+/home/raul/Desktop/C exams/eliza_skeleton/map.h
+
+/home/raul/Desktop/C exams/eliza_skeleton/string_utils.c
+string_utils.h
+/home/raul/Desktop/C exams/eliza_skeleton/string_utils.h
+map.h
+/home/raul/Desktop/C exams/eliza_skeleton/map.h
+stddef.h
+-
+assert.h
+-
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+ctype.h
+-
+
+/home/raul/Desktop/C exams/eliza_skeleton/string_utils.h
+

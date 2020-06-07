@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/project.dir/train.c.o CMakeFiles/project.dir/layer.c.o CMakeFiles/project.dir/ann.c.o  -o project 
