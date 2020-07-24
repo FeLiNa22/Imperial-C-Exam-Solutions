@@ -1,6 +1,6 @@
 # My solutions to 1st Year C (programming) past exams at Imperial College
 
-### [ANN (Artificial Neural Networks) (2018)](ANN/README.md)
+### [ANN (Artificial Neural Networks) (2018)](ann/README.md)
 <details>
 
 <summary>Show Summary</summary>
