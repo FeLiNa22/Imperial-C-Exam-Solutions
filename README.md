@@ -6,7 +6,7 @@
 
 <summary>Show Summary</summary>
 
-- Create and test an artificial neural network that is trained using the XOR function.
+    Create and test an artificial neural network that is trained using the XOR function.
 
 </details>
 
@@ -16,7 +16,7 @@
 
 <summary>Show Summary</summary>
 
-Create a tree based algorithm to build a valid chain of words in order to win a game of doublets.
+    Create a tree based algorithm to build a valid chain of words in order to win a game of doublets.
 
 </details>
 
@@ -26,9 +26,9 @@ Create a tree based algorithm to build a valid chain of words in order to win a 
 
 <summary>Show Summary</summary>
 
-- Create a natural language procesing algorithm to implement an ELIZA-like program, which emulates the effect of talking to a psychiatrist.
-- Create string parsing proccesses in C.
-- Build a dynamically linked list 
+    - Create a natural language procesing algorithm to implement an ELIZA-like program, which emulates the effect of talking to a psychiatrist.
+    - Create string parsing proccesses in C.
+    - Build a dynamically linked list 
 
 </details>
 
