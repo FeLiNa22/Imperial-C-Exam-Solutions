@@ -2,6 +2,6 @@
 
 ## [Specification](../specifications/ann.pdf)
 
-## [Exam Skeleton](skeleton/)
+## [Skeleton](skeleton/)
 
-## [Exam Solution](solution/)
+## [Solution](solution/)
