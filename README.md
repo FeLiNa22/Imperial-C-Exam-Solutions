@@ -1,4 +1,4 @@
-# Exam solutions to 1st Year C (programming) at Imperial College
+#My solutions to 1st Year C (programming) past exams at Imperial College
 
 ### [ANN (Artificial Neural Networks)](ANN/README.md)
 
