@@ -1,14 +1,5 @@
 # My solutions to 1st Year C (programming) past exams at Imperial College
 
-### [ANN (Artificial Neural Networks) (2018)](ann/README.md)
-<details>
-
-<summary>Show Summary</summary>
-
-    Create and test an artificial neural network that is trained using the XOR function.
-
-</details>
-
 ### [Doublets (2019)](doublets/README.md)
 <details>
 
@@ -18,15 +9,12 @@
 
 </details>
 
-### [Eliza (2013)](eliza/README.md)
+### [ANN (Artificial Neural Networks) (2018)](ann/README.md)
 <details>
 
 <summary>Show Summary</summary>
 
-    - Create a natural language processing algorithm to implement an ELIZA-like program, which emulates the effect of talking to a psychiatrist.
-    - Develop string proccesing functions within C.
-    - Build a dynamically linked list with necessary functions to add and delete from the list.
-    - Deal with memory leaks.
+    Create and test an artificial neural network that is trained using the XOR function.
 
 </details>
 
@@ -52,16 +40,6 @@
 
 </details>
 
-### [Huffman Encoding (2014)](huffman/README.md)
-<details>
-
-<summary>Show Summary</summary>
-
-    - Create a binary tree(-like) data structure with all the functions to add, find and delete elements from it.
-    - Create encoding and decoding instructions to extract/insert any word from the tree structure.
-
-</details>
-
 ### [Region Detection (2015)](region/README.md)
 <details>
 
@@ -76,3 +54,26 @@
 
 </details>
 
+
+### [Huffman Encoding (2014)](huffman/README.md)
+<details>
+
+<summary>Show Summary</summary>
+
+    - Create a binary tree(-like) data structure with all the functions to add, find and delete elements from it.
+    - Create encoding and decoding instructions to extract/insert any word from the tree structure.
+
+</details>
+
+
+### [Eliza (2013)](eliza/README.md)
+<details>
+
+<summary>Show Summary</summary>
+
+    - Create a natural language processing algorithm to implement an ELIZA-like program, which emulates the effect of talking to a psychiatrist.
+    - Develop string proccesing functions within C.
+    - Build a dynamically linked list with necessary functions to add and delete from the list.
+    - Deal with memory leaks.
+
+</details>
