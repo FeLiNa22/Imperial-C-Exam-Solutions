@@ -1,4 +1,4 @@
-# Region Detection (Dynamic Linked List and Tree Based Algorithm)
+# Region Detection
 
 ## [Specification](../specifications/region_detection.pdf)
 
