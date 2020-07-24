@@ -28,7 +28,7 @@
 
 </details>
 
-### [Heighway Dragons (2016)](heighway/README.md)
+### [Heighway Dragons (2016)](heighway_dragons/README.md)
 <details>
 
 <summary>Show Summary</summary>
@@ -55,7 +55,7 @@
 </details>
 
 
-### [Huffman Encoding (2014)](huffman/README.md)
+### [Huffman Encoding (2014)](huffman_coding/README.md)
 <details>
 
 <summary>Show Summary</summary>
