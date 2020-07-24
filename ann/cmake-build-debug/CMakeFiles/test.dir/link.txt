@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/test.dir/train.c.o CMakeFiles/test.dir/layer.c.o CMakeFiles/test.dir/ann.c.o  -o test 

@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/Test.dir/exam.c.o CMakeFiles/Test.dir/main.c.o  -o Test 

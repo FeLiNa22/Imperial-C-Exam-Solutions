@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/doublets.dir/doublets.c.o CMakeFiles/doublets.dir/trie.c.o  -o doublets 

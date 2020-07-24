@@ -1,3 +1,0 @@
-/home/raul/Desktop/C exams/ann/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/raul/Desktop/C exams/ann/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/raul/Desktop/C exams/ann/cmake-build-debug/CMakeFiles/train.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/testB.dir/trie.c.o CMakeFiles/testB.dir/doublets.c.o CMakeFiles/testB.dir/testB.c.o  -o testB 

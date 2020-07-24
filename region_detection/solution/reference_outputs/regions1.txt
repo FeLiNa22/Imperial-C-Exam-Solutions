@@ -1,0 +1,8 @@
+Region of depth 0 at (0, 0) of extent (745, 532)
+Region of depth 1 at (587, 42) of extent (88, 148)
+Region of depth 1 at (82, 90) of extent (405, 383)
+Region of depth 2 at (146, 130) of extent (268, 206)
+Region of depth 3 at (194, 154) of extent (33, 22)
+Region of depth 3 at (308, 164) of extent (66, 100)
+Region of depth 3 at (180, 263) of extent (110, 45)
+Region of depth 2 at (186, 383) of extent (32, 73)
