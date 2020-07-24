@@ -41,6 +41,7 @@
     - Deal with memory leaks.
 
 </details>
+
 ### [Heighway Dragons](heighway/README.md)
 <details>
 
@@ -52,6 +53,7 @@
     - Deal with memory leaks.
 
 </details>
+
 ### [Huffman Encoding](huffman/README.md)
 <details>
 
@@ -63,6 +65,7 @@
     - Deal with memory leaks.
 
 </details>
+
 ### [Region Detection](region/README.md)
 <details>
 
