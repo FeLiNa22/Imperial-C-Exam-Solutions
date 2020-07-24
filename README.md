@@ -1,4 +1,4 @@
-# My solutions to 1st Year C (programming) past exams at Imperial College
+# Past Papers with Solutions to C (programming) exams at Imperial College (I Year Computer Science)
 
 ### [Doublets (2019)](doublets/README.md)
 <details>
