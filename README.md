@@ -47,7 +47,7 @@
 
     - Draw a fractal curve using L-systems.
     - Use axioms and rules to recursively build patterns by translating them into turtle commands.
-    - Using a turtle to paint and a simple understanding of co-ordinate geometry, program the turtle to trace the pattern.
+    - Using a simple understanding of co-ordinate geometry, program a turtle to trace the pattern.
     - Deal with debugging faulty code.
 
 </details>
