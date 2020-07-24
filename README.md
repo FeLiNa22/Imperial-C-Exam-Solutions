@@ -1,7 +1,6 @@
 # My solutions to 1st Year C (programming) past exams at Imperial College
 
 ### [ANN (Artificial Neural Networks)](ANN/README.md)
-
 <details>
 
 <summary>Show Summary</summary>
@@ -11,7 +10,6 @@
 </details>
 
 ### [Doublets](doublets/README.md)
-
 <details>
 
 <summary>Show Summary</summary>
@@ -21,30 +19,59 @@
 </details>
 
 ### [Eliza (2013)](eliza/README.md)
-
 <details>
 
 <summary>Show Summary</summary>
 
     - Create a natural language procesing algorithm to implement an ELIZA-like program, which emulates the effect of talking to a psychiatrist.
-    - Create string parsing proccesses in C.
-    - Build a dynamically linked list 
+    - Develop string proccesing functions within C.
+    - Build a dynamically linked list with necessary functions to add and delete from the list.
+    - Deal with memory leaks.
 
 </details>
 
 ### [Heapsort](heapsort/README.md)
+<details>
 
-- 
+<summary>Show Summary</summary>
 
+    - Create a natural language procesing algorithm to implement an ELIZA-like program, which emulates the effect of talking to a psychiatrist.
+    - Develop string proccesing functions within C.
+    - Build a dynamically linked list with necessary functions to add and delete from the list.
+    - Deal with memory leaks.
+
+</details>
 ### [Heighway Dragons](heighway/README.md)
+<details>
 
-- 
+<summary>Show Summary</summary>
 
+    - Create a natural language procesing algorithm to implement an ELIZA-like program, which emulates the effect of talking to a psychiatrist.
+    - Develop string proccesing functions within C.
+    - Build a dynamically linked list with necessary functions to add and delete from the list.
+    - Deal with memory leaks.
+
+</details>
 ### [Huffman Encoding](huffman/README.md)
+<details>
 
-- 
+<summary>Show Summary</summary>
 
+    - Create a natural language procesing algorithm to implement an ELIZA-like program, which emulates the effect of talking to a psychiatrist.
+    - Develop string proccesing functions within C.
+    - Build a dynamically linked list with necessary functions to add and delete from the list.
+    - Deal with memory leaks.
+
+</details>
 ### [Region Detection](region/README.md)
+<details>
 
-- 
+<summary>Show Summary</summary>
+
+    - Create a natural language procesing algorithm to implement an ELIZA-like program, which emulates the effect of talking to a psychiatrist.
+    - Develop string proccesing functions within C.
+    - Build a dynamically linked list with necessary functions to add and delete from the list.
+    - Deal with memory leaks.
+
+</details>
 
